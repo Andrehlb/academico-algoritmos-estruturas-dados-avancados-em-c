@@ -1,6 +1,6 @@
 # Algoritmos e Estruturas de Dados Avançados em C
 
-🧭 **Aprendizado & Prática** | `C` · `Algoritmos` · `Estruturas de Dados` · `Big O` · `Complexidade Assintótica`
+🧭 **[Aprendizado & Prática](https://github.com/Andrehlb/Andrehlb)** | `C` · `Algoritmos` · `Estruturas de Dados` · `Big O` · `Complexidade Assintótica`
 
 Repositório acadêmico destinado às atividades práticas, implementações e registros da disciplina **Algoritmos e Estrutura de Dados Avançados**.
 
@@ -15,7 +15,7 @@ Repositório acadêmico destinado às atividades práticas, implementações e r
 
 `C` · `Algoritmos` · `Estruturas de Dados` · `Complexidade Assintótica` · `Big O` · `Big Ω` · `Big Θ` · `Recursão` · `Ordenação` · `Árvores` · `Grafos`
 
-Este repositório integra a categoria **🧭 Aprendizado & Prática** do portfólio.
+Este repositório integra a categoria [**🧭 Aprendizado & Prática**](https://github.com/Andrehlb/Andrehlb) do portfólio.
 
 ## Estrutura
 
