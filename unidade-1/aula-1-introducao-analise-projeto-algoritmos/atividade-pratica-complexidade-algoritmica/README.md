@@ -18,7 +18,7 @@ A proposta é implementar algoritmos simples em linguagem C, medir o tempo de ex
 ## Execução online
 
 - **GitHub — código-fonte:** [`linear-on.c`](linear-on.c)
-- **OnlineGDB — execução no navegador:** link de compartilhamento será adicionado após gerar o **Share / Live Public Link** no OnlineGDB.
+- **OnlineGDB — executar no navegador:** [Abrir e executar o algoritmo O(n)](https://onlinegdb.com/VOnlGWKqu)
 
 ## Valores de teste
 
@@ -32,4 +32,4 @@ Os testes previstos usam, conforme aplicável:
 
 🟡 **Em andamento**
 
-A primeira implementação `O(n)` já foi versionada. Os demais algoritmos e o link executável do OnlineGDB serão adicionados conforme a atividade avançar.
+A primeira implementação `O(n)` já foi versionada e também está disponível para execução direta no OnlineGDB. Os demais algoritmos serão adicionados conforme a atividade avançar.
