@@ -1,6 +1,10 @@
 # academico-algoritmos-estruturas-dados-avancados-em-c
 🧭 Aprendizado &amp; Prática | C • Algoritmos • Big O • Complexidade Algorítmica
 
+* conteúdo acadêmico;
+* sobre algoritmos e estruturas de dados avançados;
+* implementado em C.
+
 ## Estrutura
 ```
 nome-do-repositorio/
