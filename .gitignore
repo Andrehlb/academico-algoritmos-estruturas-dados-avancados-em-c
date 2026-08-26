@@ -53,3 +53,24 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Binários sem extensão
+a.out
+
+# Pastas de build
+build/
+bin/
+obj/
+
+# Arquivos de IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
