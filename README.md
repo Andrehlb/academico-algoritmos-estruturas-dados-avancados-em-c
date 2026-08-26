@@ -10,6 +10,21 @@ nome-do-repositorio/
 └── unidade-1/
     └── atividade-complexidade/
 ```
+```
+GitHub repository
+    ↓
+algoritmos-estruturas-dados-avancados-c
 
+Projects
+    ↓
+🧭 Aprendizado & Prática
+
+Stack
+    ↓
+C
+Algoritmos
+Estruturas de Dados
+Complexidade Assintótica
+```
 ## License 
 MIT License
